@@ -21,8 +21,9 @@ I enjoy working with data to clean, analyze, visualize, and transform it into me
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shweta%20Aggarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-aggarwal-383952197/)
-[![GitHub](https://img.shields.io/badge/GitHub-Shwetagg17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shwetagg17)
+🔗 **[LinkedIn – Shweta Aggarwal](https://www.linkedin.com/in/shweta-aggarwal-383952197/)**
+
+🐙 **[GitHub – Shwetagg17](https://github.com/Shwetagg17)**
 
 ---
 
